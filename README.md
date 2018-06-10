@@ -61,9 +61,9 @@ For example, the best evaluated class was 'Lauren_Conrad' with 97% of accuracy.
 
 This is because in the dataset the images of this person are very similar.
 
-## Memory problems
+## Memory problems
 
-If you have any issues with collpasing the memory because of the ammount of loaded data, you could use a DataGenerator instead:
+If you have any issues with collapsing the memory because of the ammount of loaded data, you could use a DataGenerator instead:
 
 ```
 from keras.preprocessing.image import ImageDataGenerator
