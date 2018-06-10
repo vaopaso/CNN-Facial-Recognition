@@ -52,12 +52,12 @@ The final accuracy in the Test Set was: 70%
 
 Below is shown the accuracy and loss evolution in validation and training set:
 
-![Accuracy and Loss evolution in Validation and Training dataset]('images/visualization.png')
+![Accuracy and Loss evolution in Validation and Training dataset](images/visualization.png)
 
 
 For example, the best evaluated class was 'Lauren_Conrad' with 97% of accuracy.
 
-![]('images/best_class.png')
+![Best evaluated class](images/best_class.png)
 
 This is because in the dataset the images of this person are very similar.
 
